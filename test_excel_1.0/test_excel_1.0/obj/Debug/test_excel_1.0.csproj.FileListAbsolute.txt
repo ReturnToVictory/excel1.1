@@ -1,0 +1,7 @@
+D:\Users\ysibirkin\Documents\Visual Studio 2017\Projects\test_excel_1.0\test_excel_1.0\obj\Debug\test_excel_1.0.csproj.ResolveComReference.cache
+D:\Users\ysibirkin\Documents\Visual Studio 2017\Projects\test_excel_1.0\test_excel_1.0\bin\Debug\test_excel_1.0.exe.config
+D:\Users\ysibirkin\Documents\Visual Studio 2017\Projects\test_excel_1.0\test_excel_1.0\bin\Debug\test_excel_1.0.exe
+D:\Users\ysibirkin\Documents\Visual Studio 2017\Projects\test_excel_1.0\test_excel_1.0\bin\Debug\test_excel_1.0.pdb
+D:\Users\ysibirkin\Documents\Visual Studio 2017\Projects\test_excel_1.0\test_excel_1.0\obj\Debug\test_excel_1.0.exe
+D:\Users\ysibirkin\Documents\Visual Studio 2017\Projects\test_excel_1.0\test_excel_1.0\obj\Debug\test_excel_1.0.pdb
+D:\Users\ysibirkin\Documents\Visual Studio 2017\Projects\test_excel_1.0\test_excel_1.0\obj\Debug\test_excel_1.0.csprojResolveAssemblyReference.cache
